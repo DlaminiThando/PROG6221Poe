@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nYJysDIAeFE=",
+  "dgSpecHash": "lPNK2mNOCKI=",
   "success": true,
   "projectFilePath": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\PROGPOEP1\\PROGPOEP1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tc\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

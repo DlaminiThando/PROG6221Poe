@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D3A47706-F5EB-F7A2-2D3D-FBDE98A1083E}|PROGPOEP1\\PROGPOEP1.csproj|c:\\users\\tc\\downloads\\prog6221poe\\progpoep1\\voicegreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A47706-F5EB-F7A2-2D3D-FBDE98A1083E}|PROGPOEP1\\PROGPOEP1.csproj|solutionrelative:progpoep1\\voicegreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3A47706-F5EB-F7A2-2D3D-FBDE98A1083E}|PROGPOEP1\\PROGPOEP1.csproj|c:\\users\\tc\\downloads\\prog6221poe\\progpoep1\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A47706-F5EB-F7A2-2D3D-FBDE98A1083E}|PROGPOEP1\\PROGPOEP1.csproj|solutionrelative:progpoep1\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,19 +23,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Chatbot.cs",
-              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\PROGPOEP1\\Chatbot.cs",
-              "RelativeDocumentMoniker": "PROGPOEP1\\Chatbot.cs",
-              "ToolTip": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\PROGPOEP1\\Chatbot.cs",
-              "RelativeToolTip": "PROGPOEP1\\Chatbot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "VoiceGreeting.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\PROGPOEP1\\VoiceGreeting.cs",
+              "RelativeDocumentMoniker": "PROGPOEP1\\VoiceGreeting.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\PROGPOEP1\\VoiceGreeting.cs*",
+              "RelativeToolTip": "PROGPOEP1\\VoiceGreeting.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T19:09:27.248Z",
+              "WhenOpened": "2026-03-31T19:21:01.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chatbot.cs",
+              "DocumentMoniker": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\PROGPOEP1\\Chatbot.cs",
+              "RelativeDocumentMoniker": "PROGPOEP1\\Chatbot.cs",
+              "ToolTip": "C:\\Users\\tc\\Downloads\\PROG6221Poe\\PROGPOEP1\\Chatbot.cs*",
+              "RelativeToolTip": "PROGPOEP1\\Chatbot.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:09:27.248Z",
+              "EditorCaption": ""
             }
           ]
         }

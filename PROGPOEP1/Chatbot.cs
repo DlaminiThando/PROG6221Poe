@@ -2,7 +2,7 @@
 {
     public class Chatbot
     {
-        private string userName;
+        private string? userName;
         private readonly ResponseSystem responseSystem;
         private readonly InputValidator inputValidator;
 

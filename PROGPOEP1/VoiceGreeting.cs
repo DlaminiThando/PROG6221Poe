@@ -44,7 +44,7 @@ namespace CybersecurityChatbot
             }
         }
 
-        private static string FindAudioFile(string filename)
+        private static string? FindAudioFile(string filename)
         {
             // Get the current working directory
             string currentDir = Environment.CurrentDirectory;
