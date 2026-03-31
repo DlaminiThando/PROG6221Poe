@@ -1,0 +1,17 @@
+name: .NET CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v1.1
+      - name: Restore NuGet packages
+        run: nuget restore
+      - name: Build
+        run: msbuild /p:Configuration=Release
